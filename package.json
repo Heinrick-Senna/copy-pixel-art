@@ -4,6 +4,7 @@
   "bin": {
     "robloxPrint": "bin/index.js"
   },
+  "preferGlobal": true,
   "type": "module",
   "keywords": [],
   "author": "",
